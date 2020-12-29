@@ -4,62 +4,46 @@ title: EULA
 include_in_header: false
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+## End-User License Agreement (EULA) of <span class="app_name">Noten - Quick Notes & Widgets</span>
 
-<br>
+This End-User License Agreement ("EULA") is a legal agreement between you and <span class="company_name">Artsem Markhel</span>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+This EULA agreement governs your acquisition and use of our <span class="app_name">Noten - Quick Notes & Widgets</span> software ("Software") directly from <span class="company_name">Artsem Markhel</span> or indirectly through a <span class="company_name">Artsem Markhel</span> authorized reseller or distributor (a "Reseller").
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+Please read this EULA agreement carefully before completing the installation process and using the <span class="app_name">Noten - Quick Notes & Widgets</span> software. It provides a license to use the <span class="app_name">Noten - Quick Notes & Widgets</span> software and contains warranty information and liability disclaimers.
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+If you register for a free trial of the <span class="app_name">Noten - Quick Notes & Widgets</span> software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the <span class="app_name">Noten - Quick Notes & Widgets</span> software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
 
-<br>
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+This EULA agreement shall apply only to the Software supplied by <span class="company_name">Artsem Markhel</span> herewith regardless of whether other software is referred to or described herein. The terms also apply to any <span class="company_name">Artsem Markhel</span> updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by [EULA Template](https://www.eulatemplate.com) for <span class="app_name">Noten - Quick Notes & Widgets</span>.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+### License Grant
 
-<br>
+<span class="company_name">Artsem Markhel</span> hereby grants you a personal, non-transferable, non-exclusive licence to use the <span class="app_name">Noten - Quick Notes & Widgets</span> software on your devices in accordance with the terms of this EULA agreement.
 
-________
-<br>
+You are permitted to load the <span class="app_name">Noten - Quick Notes & Widgets</span> software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the <span class="app_name">Noten - Quick Notes & Widgets</span> software.
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+You are not permitted to:
 
-<br>
+*   Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
+*   Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
+*   Allow any third party to use the Software on behalf of or for the benefit of any third party
+*   Use the Software in any way which breaches any applicable local, national or international law
+*   use the Software for any purpose that <span class="company_name">Artsem Markhel</span> considers is a breach of this EULA agreement
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+### Intellectual Property and Ownership
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+<span class="company_name">Artsem Markhel</span> shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of <span class="company_name">Artsem Markhel</span>.
 
-<br>
+<span class="company_name">Artsem Markhel</span> reserves the right to grant licences to use the Software to third parties.
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+### Termination
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to <span class="company_name">Artsem Markhel</span>.
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
 
-<br>
+### Governing Law
+
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of <span class="country">by</span>.
